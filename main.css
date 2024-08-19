@@ -1,0 +1,15 @@
+body {
+
+margin-top: 50px;
+}
+.mondrian {
+  width: 440px;
+  height: 440px;
+  border-spacing: 0px;
+  
+}
+
+td {
+    border: 4px solid black;
+}
+
